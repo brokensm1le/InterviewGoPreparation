@@ -40,3 +40,8 @@ EXPLAIN ANALYZE <запрос>
 ```
 \d <table_name>
 ```
+
+
+## ACID
+
+https://habr.com/ru/companies/simbirsoft/articles/572540/
