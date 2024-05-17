@@ -9,6 +9,10 @@ https://datafinder.ru/products/postgresql-indeksy
 
 https://postgrespro.ru/docs/postgresql/9.6/indexes-types
 
+Подробно о всех индексах:
+
+https://habr.com/ru/companies/postgrespro/articles/326096/
+
 Советы:
 
 - Если пишешь индекс по нескольким колонкам, то их очередность зависит от их селективности - самая первая: наиболее селективная (отражается на памяти занимаймым индексом). Но по хорошему надо смотреть на запросы
